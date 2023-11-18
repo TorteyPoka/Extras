@@ -1,0 +1,15 @@
+For competitive programming, master these in order:
+
+1- basic IO
+
+2- Classes, overload functions, OOPs concepts
+
+3- basic containers: vector, array, unordered_map (hash map), unordered_set (hash set), stack, queue, priority_queue (heap)
+
+4- library algorithm
+
+5- learn to implement graph, dfs, bfs
+
+6- more containers: map (ordered hash map), set (ordered hash set)
+
+After that you keep learning while you solve question. For example, learn by google search/stackoverflow when you encounter any problem
